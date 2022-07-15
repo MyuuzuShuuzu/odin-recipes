@@ -12,6 +12,7 @@ It demonstrates these skills:
 - Creating boilerplate HTML
 - Adding text, images, and links to a web page
 - Knowing the difference between each heading level
+- Knowing the difference between unordered and ordered lists
 - Using basic HTML content tags such as `<p>`, `<h1>`, `<a>`, and `<img>`
 - Correctly using HTML attributes like `<href>`, `<src>`, and `<alt>`
 - Creating proper file structure
